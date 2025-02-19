@@ -1,0 +1,14 @@
+name: 
+channels:
+  - conda-forge
+dependencies:
+  - bs4
+  - ipykernel
+  - markdownify
+  - pandas
+  - python=3.13
+  - python-benedict
+  - requests
+  - tqdm
+
+prefix: "/home/camille/code/loc/envs"
